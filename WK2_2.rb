@@ -45,15 +45,51 @@ end
 # 6. Write a while loop that asks the user to enter a number and will run forever until the user enters a number greater than 10.
 
 while true
-  p "Enter a numeber: "
+  p "Enter a number: "
+  numero = gets.chomp
+  if numero.to_i > 10
+    break
+  end
+end
 
 # 7. Write a while loop that prints the numbers 50 to 70.
 
+numero1 = 50
+while numero1 < 71
+  p numero1
+  numero1 += 1
+end
+
 # 8. Write a while loop that prints the phrase "Around the world" 144 times.
+
+phrase = "Around the world"
+count1 = 0
+while count1 < 145
+  p phrase
+  count1 += 1
+end
 
 # 9. Write a while loop that asks the user to enter a word and will run forever until the user enters a word with more than 5 letters.
 
+while true
+  p "Enter a word: "
+  werd = gets.chomp
+  if werd.length > 5
+    break
+  end
+end
+
+  
+
 # 10. Write a while loop that prints the even numbers from 2 to 40.
 
+numero2 = 2
+while true
+  if numero2 <= 40
+    p numero2
+    numero2 += 2
+  end
+end
+  
 
 # SOLUTIONS: https://gist.github.com/peterxjang/c4ec0e0f8f6e123d65ada9bf3100068b
