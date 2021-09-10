@@ -84,8 +84,7 @@ end
 # 10. Write a while loop that prints the even numbers from 2 to 40.
 
 numero2 = 2
-while true
-  if numero2 <= 40
+while numero2 <= 40
     p numero2
     numero2 += 2
   end
