@@ -1,6 +1,11 @@
 # 1. Create an array to store 3 words. Then add two more words to the array and print the array on one line.
 
-hello
+Where have I made the most impact? be specific and concrete. 
+
+Are they able to see the impact they made and what type of value they created. Able to match up to technical qualifications? Familiar with a front end framework and a backend infrastructure? 
+
+be flexible not rigid
+
 
 # 2. Create an array to store 4 letters. Then change the second letter to a number and print the array on one line.
 
