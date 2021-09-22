@@ -7,6 +7,10 @@ p array1
 
 # 2. Create an array to store 4 letters. Then change the second letter to a number and print the array on one line.
 
+array2 = ["a", "b", "c", "d"]
+array2[1] = "2"
+p array2
+
 # 3. Create an array to store 5 numbers. Then print out each number on separate lines with a while loop.
 
 # 4. Create an array to store 1 number. Then add three more numbers to the array and print the array on one line.
