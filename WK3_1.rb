@@ -22,11 +22,15 @@ end
 
 # 4. Create an array to store 1 number. Then add three more numbers to the array and print the array on one line.
 
-array4 = [1]
-array4 << 3, 4, 5
-p array4
+# array4 = [1]
+# array4 << 3, 4, 5
+# p array4
 
 # 5. Create an array to store 3 strings with lower case letters. Then change the third string to have all capital letters and print the array on one line.
+
+array5 = ["hi", "hello", "hey"]
+array5[2].upcase
+p array5
 
 # 6. Create an array to store 3 names. Then print out each name on separate lines with a while loop.
 
