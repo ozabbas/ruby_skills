@@ -55,6 +55,13 @@ p array8
 
 # 9. Create an array to store 2 numbers. Then print out each number on separate lines with a while loop.
 
+array9 = [1, 2]
+count = 0
+while count < 2
+  p array9[count]
+  count += 1
+end
+
 # 10. Create an array to store names of 3 different countries. Then add one more country and print the array one line.
 
 
