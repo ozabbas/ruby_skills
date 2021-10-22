@@ -64,5 +64,9 @@ end
 
 # 10. Create an array to store names of 3 different countries. Then add one more country and print the array one line.
 
+array10 = ["usa", "canada", "mexico"]
+array10 << "china"
+p array10
+
 
 # SOLUTIONS: https://gist.github.com/peterxjang/7095a2b19e1da2cc18d4a0dcd66cb8f1
