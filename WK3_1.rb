@@ -49,6 +49,10 @@ p array7
 
 # 8. Create an array to store 5 numbers. Then change the first number to 10 times its original value and print the array on one line.
 
+array8 = [1, 2, 3, 4, 5]
+array8[1] = 6
+p array8
+
 # 9. Create an array to store 2 numbers. Then print out each number on separate lines with a while loop.
 
 # 10. Create an array to store names of 3 different countries. Then add one more country and print the array one line.
