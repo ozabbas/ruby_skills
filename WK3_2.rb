@@ -14,7 +14,9 @@ p person1
 
 # 3. Make a hash to store prices for 3 different menu items. Then add a new menu item and price and print the hash to see the result.
 
-menu1 = {""}
+menu1 = {"eggs" => 1, "waffles" => 2, "pancakes" => 3}
+menu1["oreos"] = 4
+p menu1
 
 # 4. Make a hash to store a book's title, author, number of pages, and language. Then print each attribute on separate lines.
 
